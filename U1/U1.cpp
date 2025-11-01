@@ -15,12 +15,22 @@ void uzduotiesKodasCia()
         cout << "dalinasi is 5\n";
 
     }
-    else {cout << "nesidalina is 5\n";}
+    else
+    {
+        cout << "nesidalina is 5\n";
+    }
     if (x % 2 == 0)
     {
         cout << "dalinasi is 2\n";
-    } else {cout << "Nesidalina is 2\n";}
-    if (x % 2 != 0 && x % 5 != 0;){cout << "nesidalina nei is 5 nei is 2\n";}
+    }
+    else
+    {
+        cout << "Nesidalina is 2\n";
+    }
+    if (x % 2 != 0 && x % 5 != 0)
+    {
+        cout << "nesidalina nei is 5 nei is 2\n";
+    }
 
 }
 
