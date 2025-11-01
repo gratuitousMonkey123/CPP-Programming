@@ -13,5 +13,8 @@ void uzduotiesKodasCia()
     if (){
         cout << "dalinasi is 5";
     }
+    if (){
+        cout << "dalinasi is 2";
+    }
 
 }

@@ -1,0 +1,17 @@
+Kuriant new repository:
+
+git init
+git add .
+git commit -m "first commit"
+git branch -m main
+git remote add origin *linkas repository + gale .git*
+git push -u origin main
+
+
+
+Nori new changes pridet
+
+
+git add .
+git commit -m "change pavadinimas, pvz. "Second commit""
+git push -u origin main
